@@ -1,0 +1,9 @@
+@media print {
+  .btn-print {
+    display: none;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+}
