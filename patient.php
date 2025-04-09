@@ -14,6 +14,8 @@ if (isset($_POST['btn_submit'])) {
     $alamat = mysqli_real_escape_string($conn, $_POST['alamat']);
     $nohp = mysqli_real_escape_string($conn, $_POST['nohp']);
     $status_layanan = mysqli_real_escape_string($conn, $_POST['statuslayanan']);
+    $keluhan = mysqli_real_escape_string($conn, $_POST['keluhan']);
+    $poli = mysqli_real_escape_string($conn, $_POST['poli']);
 
     // Jika status layanan adalah BPJS, simpan nomor BPJS, jika tidak biarkan NULL
     $nobpjs = ($status_layanan == 'bpjs' && !empty($_POST['nobpjs'])) 
@@ -32,6 +34,8 @@ if (isset($_POST['btn_submit'])) {
                     alamat = '$alamat',
                     nohp = '$nohp',
                     statuslayanan = '$status_layanan',
+                    keluhan = '$keluhan',
+                    poli = '$poli',
                     nobpjs = " . ($nobpjs ? "'$nobpjs'" : "NULL") . ",
                     tgldaftar = NOW()
                 WHERE nikpasien = '$nikpasien'";
@@ -46,6 +50,8 @@ if (isset($_POST['btn_submit'])) {
                     alamat, 
                     nohp, 
                     statuslayanan, 
+                    keluhan, 
+                    poli, 
                     nobpjs, 
                     tgldaftar
                 ) VALUES (
@@ -56,6 +62,8 @@ if (isset($_POST['btn_submit'])) {
                     '$alamat', 
                     '$nohp', 
                     '$status_layanan', 
+                    '$keluhan', 
+                    '$poli', 
                     " . ($nobpjs ? "'$nobpjs'" : "NULL") . ", 
                     NOW()
                 )";
@@ -154,12 +162,33 @@ if (isset($_GET['editid'])) {
     <label class="col-sm-2 col-form-label">Status Layanan</label>
     <div class="col-sm-4">
         <select class="form-control" name="statuslayanan" id="statuslayanan" required>
-            <option value="" disabled selected>Pilih Status Layanan</option>
+            <option value="" disabled selected>-- Pilih Status Layanan --</option>
             <option value="umum">Umum</option>
             <option value="bpjs">BPJS</option>
         </select>
     </div>
 </div>
+
+<div class="form-group row">
+                                            <label class="col-sm-2 col-form-label">Keluhan</label>
+                                            <div class="col-sm-4">
+                                                <input type="text" class="form-control" name="keluhan" id="keluhan"
+                                                    placeholder="Masukkan Keluhan"
+                                                    value="<?php echo $rsedit['keluhan'] ?? ''; ?>" required>
+                                            </div>
+                                        </div>
+
+<div class="form-group row">
+    <label class="col-sm-2 col-form-label">Poli Tujuan</label>
+    <div class="col-sm-4">
+        <select class="form-control" name="poli" id="poli" required>
+            <option value="">-- Pilih Poli --</option>
+            <option value="Poli Umum" <?php echo (isset($rsedit['poli']) && $rsedit['poli'] == 'Poli Umum') ? 'selected' : ''; ?>>Poli Umum</option>
+            <option value="Poli Gigi" <?php echo (isset($rsedit['poli']) && $rsedit['poli'] == 'Poli Gigi') ? 'selected' : ''; ?>>Poli Gigi</option>
+        </select>
+    </div>
+</div>
+
 
 <div class="form-group row" id="bpjs_input" style="display: none;">
     <label class="col-sm-2 col-form-label">No BPJS</label>
@@ -191,6 +220,8 @@ document.getElementById('statuslayanan').addEventListener('change', function() {
                                                     value="<?php echo $rsedit['alamat'] ?? ''; ?>" required>
                                             </div>
                                         </div>
+                                        
+                                        
 
                                         <div class="form-group row">
                                             <label class="col-sm-2 col-form-label">No HP</label>

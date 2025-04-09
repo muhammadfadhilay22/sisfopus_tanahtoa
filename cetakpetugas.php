@@ -87,6 +87,10 @@ if ($nikpasien > 0) {
             <td><?= $data['jenkel']; ?></td>
         </tr>
         <tr>
+            <td>Keluhan</td>
+            <td><?= $data['keluhan']; ?></td>
+        </tr>
+        <tr>
             <td>Status Layanan</td>
             <td><?= $data['statuslayanan']; ?></td>
         </tr>

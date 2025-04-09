@@ -236,3 +236,278 @@ Stack trace:
 [09-Apr-2025 22:46:24 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
 [09-Apr-2025 22:46:24 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
 [09-Apr-2025 22:46:24 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/header.php on line 124
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: fname in /home/pesf5772/public_html/puskesmastanahtoa.my.id/header.php on line 128
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 3
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 23
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 32
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 48
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 71
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 71
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 98
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 106
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 11
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:00:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:04:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:05:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:08:11 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/view-appointments-approved.php on line 75
+[09-Apr-2025 23:08:11 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/view-appointments-approved.php on line 75
+[09-Apr-2025 23:08:11 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/view-appointments-approved.php on line 75
+[09-Apr-2025 23:12:05 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/patient.php on line 17
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:15:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:21:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:24:55 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:25:33 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/view-appointments-approved.php on line 75
+[09-Apr-2025 23:27:10 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:27:11 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:27:12 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:27:49 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:27:49 Asia/Jakarta] PHP Notice:  compact(): Undefined variable: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 44
+[09-Apr-2025 23:28:36 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:28:36 Asia/Jakarta] PHP Notice:  compact(): Undefined variable: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 44
+[09-Apr-2025 23:28:41 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:28:41 Asia/Jakarta] PHP Notice:  compact(): Undefined variable: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 44
+[09-Apr-2025 23:28:42 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:28:42 Asia/Jakarta] PHP Notice:  compact(): Undefined variable: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 44
+[09-Apr-2025 23:28:43 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:28:43 Asia/Jakarta] PHP Notice:  compact(): Undefined variable: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 44
+[09-Apr-2025 23:28:47 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:28:47 Asia/Jakarta] PHP Notice:  compact(): Undefined variable: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 44
+[09-Apr-2025 23:28:47 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 39
+[09-Apr-2025 23:28:47 Asia/Jakarta] PHP Notice:  compact(): Undefined variable: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetak.php on line 44
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:30:57 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 42
+[09-Apr-2025 23:30:57 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 43
+[09-Apr-2025 23:30:57 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 44
+[09-Apr-2025 23:30:57 Asia/Jakarta] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 46
+[09-Apr-2025 23:30:57 Asia/Jakarta] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 49
+[09-Apr-2025 23:32:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 31
+[09-Apr-2025 23:32:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 42
+[09-Apr-2025 23:32:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 43
+[09-Apr-2025 23:32:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 44
+[09-Apr-2025 23:32:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 46
+[09-Apr-2025 23:32:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 49
+[09-Apr-2025 23:33:05 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 31
+[09-Apr-2025 23:33:05 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 171
+[09-Apr-2025 23:33:06 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 31
+[09-Apr-2025 23:33:06 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 171
+[09-Apr-2025 23:33:37 Asia/Jakarta] PHP Notice:  Undefined index: keluhan in /home/pesf5772/public_html/puskesmastanahtoa.my.id/cetakdok.php on line 171
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/header.php on line 124
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: fname in /home/pesf5772/public_html/puskesmastanahtoa.my.id/header.php on line 128
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 3
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 23
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 32
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 48
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 71
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 71
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 98
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 106
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 11
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:43:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/header.php on line 124
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: fname in /home/pesf5772/public_html/puskesmastanahtoa.my.id/header.php on line 128
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 3
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 23
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 32
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 48
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 71
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 71
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 98
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/pesf5772/public_html/puskesmastanahtoa.my.id/sidebar.php on line 106
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 11
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108
+[09-Apr-2025 23:44:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pesf5772/public_html/puskesmastanahtoa.my.id/index.php on line 108

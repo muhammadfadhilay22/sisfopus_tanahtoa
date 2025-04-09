@@ -57,7 +57,7 @@ if (isset($_GET['delid'])) {
     <?php
     $no = 1;
     $sql = "SELECT rm.*, p.namapasien, p.jenkel, p.tgllahir, p.alamat, 
-                   p.statuslayanan, p.nobpjs  -- Ambil dari tb_pasien
+                   p.statuslayanan, p.keluhan, p.nobpjs  -- Ambil dari tb_pasien
             FROM tb_rekammedis rm 
             JOIN tb_pasien p ON rm.nikpasien = p.nikpasien";
 

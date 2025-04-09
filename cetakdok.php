@@ -23,28 +23,28 @@ if ($id_rekammedis > 0) {
     }
 
     // Ambil data pasien
-    $query_pasien = "SELECT namapasien, nikpasien, tgllahir, alamat, jenkel, statuslayanan, nobpjs 
+    $query_pasien = "SELECT namapasien, nikpasien, tgllahir, alamat, jenkel, statuslayanan, keluhan, nobpjs 
                      FROM tb_pasien WHERE nikpasien = ? LIMIT 1";
     $stmt_pasien = mysqli_prepare($conn, $query_pasien);
     mysqli_stmt_bind_param($stmt_pasien, "s", $nikpasien);
     mysqli_stmt_execute($stmt_pasien);
-    mysqli_stmt_bind_result($stmt_pasien, $namapasien, $nikpasien, $tgllahir, $alamat, $jenkel, $statuslayanan, $nobpjs);
+    mysqli_stmt_bind_result($stmt_pasien, $namapasien, $nikpasien, $tgllahir, $alamat, $jenkel, $statuslayanan, $keluhan, $nobpjs);
     mysqli_stmt_fetch($stmt_pasien);
     mysqli_stmt_close($stmt_pasien);
 
     // Simpan hasil dalam array
-    $data_pasien = compact('namapasien', 'nikpasien', 'tgllahir', 'alamat', 'jenkel', 'statuslayanan', 'nobpjs', 'namakk', 'statuspasien');
+    $data_pasien = compact('namapasien', 'nikpasien', 'tgllahir', 'alamat', 'jenkel', 'statuslayanan', 'keluhan', 'nobpjs', 'namakk', 'statuspasien');
 
     // Ambil rekam medis pasien
-    $query_rekammedis = "SELECT rekammedis, tanggal_kunjungan, keluhan, diaknosa, dokter 
+    $query_rekammedis = "SELECT rekammedis, tanggal_kunjungan, diaknosa, dokter 
                          FROM tb_rekammedis WHERE nikpasien = ? ORDER BY tanggal_kunjungan DESC";
     $stmt_rekammedis = mysqli_prepare($conn, $query_rekammedis);
     mysqli_stmt_bind_param($stmt_rekammedis, "s", $nikpasien);
     mysqli_stmt_execute($stmt_rekammedis);
-    mysqli_stmt_bind_result($stmt_rekammedis, $rekammedis, $tanggal_kunjungan, $keluhan, $diaknosa, $dokter);
+    mysqli_stmt_bind_result($stmt_rekammedis, $rekammedis, $tanggal_kunjungan, $diaknosa, $dokter);
 
     while (mysqli_stmt_fetch($stmt_rekammedis)) {
-        $rekammedis_list[] = compact('rekammedis', 'tanggal_kunjungan', 'keluhan', 'diaknosa', 'dokter');
+        $rekammedis_list[] = compact('rekammedis', 'tanggal_kunjungan', 'diaknosa', 'dokter');
     }
     mysqli_stmt_close($stmt_rekammedis);
 } else {
@@ -112,7 +112,11 @@ if ($id_rekammedis > 0) {
     <p>Tanah Toa, Kajang, Kabupaten Bulukumba, Sulawesi Selatan, 92574</p>
     <p>Email: puskesmas@tanaktoa.go.id</p>
     <hr>
+    <div style="text-align: right; margin-top: -10px;">
+        <p><strong>Tanah Toa, <?php echo date('d F Y'); ?></strong></p>
+    </div>
 </div>
+
 
 <p><strong>Kepada Yth,</strong></p>
 <p>Kepala Puskesmas</p>
@@ -168,7 +172,7 @@ if ($id_rekammedis > 0) {
     <?php foreach ($rekammedis_list as $rekam) : ?>
     <tr>
         <td><?= $rekam['tanggal_kunjungan'] ?></td>
-        <td><?= $rekam['keluhan'] ?></td>
+        <td><?= $data_pasien['keluhan'] ?></td>
         <td><?= $rekam['diaknosa'] ?></td>
         <td><?= $rekam['dokter'] ?></td>
     </tr>

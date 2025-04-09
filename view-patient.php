@@ -99,7 +99,9 @@ if (isset($_GET['delid'])) { ?>
                       <th>Jenis Kelamin</th>
                       <th>Alamat</th>
                       <th>No HP</th>
+                      <th>Keluhan</th>
                       <th>Status Layanan</th>
+                      <th>Poli</th>
                       <th width="15%">Aksi</th>
                     </tr>
                   </thead>
@@ -143,7 +145,9 @@ if (isset($_GET['delid'])) { ?>
         <td>$rs[jenkel]</td>
         <td>$rs[alamat]</td>
         <td>$rs[nohp]</td>
+        <td>$rs[keluhan]</td>
         <td>$rs[statuslayanan]</td>
+        <td>$rs[poli]</td>
         <td>
             <!-- Tombol Edit -->
             <a href='edit_patient.php?nikpasien={$rs['nikpasien']}' class='btn btn-sm btn-primary'>

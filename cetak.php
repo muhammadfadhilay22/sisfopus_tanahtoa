@@ -26,7 +26,7 @@ if ($id_rekammedis > 0) {
     }
 
     // Ambil data pasien berdasarkan nikpasien dari tb_pasien
-    $query_pasien = "SELECT namapasien, nikpasien, tgllahir, alamat, jenkel, statuslayanan, nobpjs 
+    $query_pasien = "SELECT namapasien, nikpasien, tgllahir, alamat, jenkel, keluhan, statuslayanan, nobpjs 
                      FROM tb_pasien WHERE nikpasien = ? LIMIT 1";
     $stmt_pasien = mysqli_prepare($conn, $query_pasien);
 
@@ -36,15 +36,15 @@ if ($id_rekammedis > 0) {
 
     mysqli_stmt_bind_param($stmt_pasien, "s", $nikpasien);
     mysqli_stmt_execute($stmt_pasien);
-    mysqli_stmt_bind_result($stmt_pasien, $namapasien, $nikpasien, $tgllahir, $alamat, $jenkel, $statuslayanan, $nobpjs);
+    mysqli_stmt_bind_result($stmt_pasien, $namapasien, $nikpasien, $tgllahir, $alamat, $jenkel, $keluhan, $statuslayanan, $nobpjs);
     mysqli_stmt_fetch($stmt_pasien);
     mysqli_stmt_close($stmt_pasien);
 
     // Simpan hasil dalam array
-    $data_pasien = compact('namapasien', 'nikpasien', 'tgllahir', 'alamat', 'jenkel', 'statuslayanan', 'nobpjs', 'namakk', 'statuspasien');
+    $data_pasien = compact('namapasien', 'nikpasien', 'tgllahir', 'alamat', 'jenkel', 'statuslayanan', 'keluhan', 'nobpjs', 'namakk', 'statuspasien');
 
     // Ambil semua rekam medis pasien berdasarkan nikpasien
-    $query_rekammedis = "SELECT rekammedis, tanggal_kunjungan, keluhan, diaknosa, dokter, namakk, statuspasien
+    $query_rekammedis = "SELECT rekammedis, tanggal_kunjungan, diaknosa, dokter, namakk, statuspasien
                          FROM tb_rekammedis WHERE nikpasien = ? ORDER BY tanggal_kunjungan DESC";
     $stmt_rekammedis = mysqli_prepare($conn, $query_rekammedis);
 
@@ -54,11 +54,11 @@ if ($id_rekammedis > 0) {
 
     mysqli_stmt_bind_param($stmt_rekammedis, "s", $nikpasien);
     mysqli_stmt_execute($stmt_rekammedis);
-    mysqli_stmt_bind_result($stmt_rekammedis, $rekammedis, $tanggal_kunjungan, $keluhan, $diaknosa, $dokter, $namakk, $statuspasien);
+    mysqli_stmt_bind_result($stmt_rekammedis, $rekammedis, $tanggal_kunjungan, $diaknosa, $dokter, $namakk, $statuspasien);
 
     $rekammedis_list = [];
     while (mysqli_stmt_fetch($stmt_rekammedis)) {
-        $rekammedis_list[] = compact('rekammedis', 'tanggal_kunjungan', 'keluhan', 'diaknosa', 'dokter', 'namakk', 'statuspasien');
+        $rekammedis_list[] = compact('rekammedis', 'tanggal_kunjungan', 'diaknosa', 'dokter', 'namakk', 'statuspasien');
     }
     mysqli_stmt_close($stmt_rekammedis);
 } else {
@@ -161,7 +161,7 @@ if ($id_rekammedis > 0) {
             </tr>
             <tr>
                 <td>Keluhan</td>
-                <td colspan="3"><?= htmlspecialchars($data_rekammedis['keluhan'] ?? '-'); ?></td>
+                <td colspan="3"><?= htmlspecialchars($data_pasien['keluhan'] ?? '-'); ?></td>
             </tr>
             <tr>
                 <td>Diagnosa</td>
